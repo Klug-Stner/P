@@ -4,7 +4,7 @@ Hey, I'm Joe
 
 🏫️ Final Year ECE Undergrad [ Honors in VLSI ] @AJCE Kerala, India.
 
-⚙️ Currently, I'm working on optimization in EDGE ML for PdM [TF-lite/ESP-IDF/FreeRTOS/Python on ESP32-S3].
+⚙️ Currently, I'm working in optimization on EDGE ML for PdM [TF-lite/ESP-IDF/FreeRTOS/Python on ESP32-S3].
 
 ↔️ Let's Connect
 
