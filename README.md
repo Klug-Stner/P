@@ -1,14 +1,20 @@
 Hey, I'm Joe 
 
-👨‍💻️ &nbsp;Ardent RTL/DV Enginner / Embedded Systems Designer, I like building stuff <br>
-<br>
-🏫️ &nbsp;Final Year ECE Undergrad with Honors in VLSI, @AJCE Kerala, India <br>
-<br>
-⚙️ &nbsp;Currently, I'm working on optimization on EDGE ML for PdM [TF-lite/ESP-IDF/FreeRTOS/Python on ESP32-S31] <br>
-<br>
-🛠️ &nbsp;Tools & Tech
-<br>
-<br>
+👨‍💻️ Silicon Apprentice | RTL/DV & Embedded Systems | I build things that sense, compute, and sleep efficiently.
+
+🏫️ Final Year ECE Undergrad [ Honors in VLSI ] @AJCE Kerala, India.
+
+⚙️ Currently, I'm working on optimization in EDGE ML for PdM [TF-lite/ESP-IDF/FreeRTOS/Python on ESP32-S3].
+
+↔️ Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joe-jose-298372271)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:JoeJose2005p@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readme&logoColor=white)](https://yourusername.github.io/resume.pdf)
+[![Portfolio](https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=githubpages&logoColor=white)](https://yourusername.github.io)
+
+🛠️ Tools & Tech
+
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Verilog](https://img.shields.io/badge/Verilog-6A1B9A?style=for-the-badge)
